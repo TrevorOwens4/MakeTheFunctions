@@ -58,7 +58,7 @@ void fillWith (vector<int>& work, int num)
 void printVector (vector <int>& myvector)
 {
         for ( int index = 0; index < myvector.size(); index++)
-                cout << myvector[index] << endl;
+                cout << myvector[index];
 }
 
 //isPositive
